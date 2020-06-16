@@ -23,6 +23,9 @@ function colorDeconstructor(color1){
     else if (color1 === 'black'){
         return "Sorry, that's not a secondary color!"
     }
+    else{
+        return 'undefined'
+    }
 
     }
 
